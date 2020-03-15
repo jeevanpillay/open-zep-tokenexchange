@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/lpfloyd/open-zep-tokenexchange#readme",
   "dependencies": {
-    "@openzeppelin/cli": "^2.7.2"
+    "@openzeppelin/cli": "^2.7.2",
+    "@openzeppelin/contracts-ethereum-package": "^2.4.0",
+    "@openzeppelin/upgrades": "^2.7.2"
   }
 }
