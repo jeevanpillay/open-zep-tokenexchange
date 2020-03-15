@@ -1,0 +1,22 @@
+{
+  "name": "open-zep-tokenexchange",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lpfloyd/open-zep-tokenexchange.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lpfloyd/open-zep-tokenexchange/issues"
+  },
+  "homepage": "https://github.com/lpfloyd/open-zep-tokenexchange#readme",
+  "dependencies": {
+    "@openzeppelin/cli": "^2.7.2"
+  }
+}
